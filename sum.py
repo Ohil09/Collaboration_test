@@ -5,3 +5,6 @@ print(a,b)
 
 print("test")
 print("test 2")
+
+sum = a + b
+print("Sum : ",sum)
